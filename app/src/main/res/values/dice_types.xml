@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string-array name="dice">
+        <item>die 4</item>
+        <item>die 6</item>
+        <item>die 8</item>
+        <item>die 10</item>
+        <item>die 12</item>
+        <item>die 20</item>
+        <item>die infinite</item>
+    </string-array>
+</resources>
